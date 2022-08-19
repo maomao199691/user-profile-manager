@@ -3,7 +3,7 @@ user_profile_manager app
 The user_profile_manager app is used by bigdata user_profile.
 
 用户画像：
-<img src="https://cdn.jsdelivr.net/gh/maomao199691/images/images/userprofile/用户画像.png" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/maomao199691/images/images/userprofile/用户画像.png" width="500px">
 
 用户画像定位：
 ![](https://cdn.jsdelivr.net/gh/maomao199691/images/images/userprofile/用户画像定位.png)
